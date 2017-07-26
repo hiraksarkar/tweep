@@ -9,3 +9,7 @@ First, sign in to Twitter at [Twitter apps](https://apps.twitter.com/) and creat
 by filling up the application details. Then you should have your ```consumer_token``` and 
 ```consumer_secret```. 
 Then run the code given in filtered_tweets.py and follow the instructions.
+
+### Output
+This saves the specified number of location filtered (geo-tagged tweets only) in a file called india_data.txt
+in the same directory as the source file. 
